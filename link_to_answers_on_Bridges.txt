@@ -1,0 +1,13 @@
+Worked with Addy Cruz
+
+Link to solution of tree1.txt:
+https://bridges-cs.herokuapp.com/assignments/81/MakennaWorley
+
+Link to solution of tree2.txt:
+https://bridges-cs.herokuapp.com/assignments/82/MakennaWorley
+
+Link to solution of tree3.txt:
+https://bridges-cs.herokuapp.com/assignments/83/MakennaWorley
+
+Link to solution of tree4.txt:
+https://bridges-cs.herokuapp.com/assignments/84/MakennaWorley
